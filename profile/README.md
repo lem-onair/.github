@@ -6,8 +6,8 @@
 - [X] 완료
 
 |분류|내용|완료|
-|----|-------------|---------|
-|Common|Spock을 활용한 단위 테스트코드 작성|<ul><li>- [x] 완료</li><li>|
+|----|-----------|----------|
+|Common|Spock을 활용한 단위 테스트코드 작성|<ul><li>- [x] 완료</li>|
 |Common|BlockHound 활용하여 blocking되는 구간 파악|[ ]|
 |Common|프론트 혹은 타 서버에 응답하는 형식은 적절한가? (ResponseEntity나 Error)|- [X] 완료|
 |Common|Docker image 빌드시 layered jar를 활용한 Docker build 최적화 도입?|[ ]|
