@@ -1,9 +1,5 @@
 ## [개선중인 Github Repo](https://github.com/lemonair-improve)
 
-[X] hihi
-[ ] hihi
-- [ ] hi
-- [X] 완료
 
 |분류|내용|완료|
 |----|-----------|----------|
