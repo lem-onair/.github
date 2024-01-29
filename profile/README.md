@@ -1,6 +1,6 @@
 ## [개선중인 Github Repo](https://github.com/lemonair-improve)
 
-# [개선 내용 노션페이지](https://arrow-troodon-1c3.notion.site/afbd3ecc14344977a92424c8bee6c1d9?pvs=4)
+### [개선 내용 노션페이지](https://arrow-troodon-1c3.notion.site/afbd3ecc14344977a92424c8bee6c1d9?pvs=4)
 
 
 |분류|내용|완료|
