@@ -17,7 +17,7 @@
 |Service|donation 순위대로 pagination 구현하기|<ul><li>- [x] </li>|
 |Common|Spock을 활용한 단위 테스트코드 작성|<ul><li>- [ ] </li>|
 |Common|BlockHound 활용하여 blocking되는 구간 파악|<ul><li>- [ ] </li>|
-|Common|Docker image 빌드시 layered jar를 활용한 Docker build 최적화 도입?|[ ]|
+|Common|Docker image 빌드시 layered jar를 활용한 Docker build 최적화 도입?|<ul><li>- [ ] </li>|
 |RTMP|RTMP 프로토콜 학습|<ul><li>- [ ] </li>|
 |RTMP|encoding decoding 방식 타당성 검증|<ul><li>- [ ] </li>|
 |RTMP|Netty에 대한 이해 및 Netty 서버 구현 방식 이해|<ul><li>- [ ] </li>|
